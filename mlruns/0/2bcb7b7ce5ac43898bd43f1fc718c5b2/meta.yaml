@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2bcb7b7ce5ac43898bd43f1fc718c5b2/artifacts
+end_time: 1760713894413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bcb7b7ce5ac43898bd43f1fc718c5b2
+run_name: abrasive-eel-554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760713893930
+status: 4
+tags: []
+user_id: ANIKET
